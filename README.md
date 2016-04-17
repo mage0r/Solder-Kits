@@ -3,7 +3,7 @@ Solder Rocket - How to solder kit.
 
 In the great tradition of hackerspaces everwhere, CCHS runs frequent, simple, "how to solder" courses for kids of all ages.
 
-Our previous kit was designed by Luke Weston and had a very similar schematic.  This one has been updated for parts availability and in order to have a more "fun" board.
+Our previous kit was designed by [Luke Weston](https://github.com/lukeweston/DIYBadgeKit) and had a very similar schematic.  This one has been updated for parts availability and in order to have a more "fun" board.
 
 The "Rocket" outline was designed in Sketchup and exported as a dxf to be inputed in to KiCAD.
 
