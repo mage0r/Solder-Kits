@@ -1,21 +1,37 @@
-Dual Source Charger
+Solder Rocket - How to solder kit.
 =============
-Currently seeking a new, flashier name.
 
-This project is a dual power source charger that breaks out to 3.3v and 5v.
+In the great tradition of hackerspaces everwhere, CCHS runs frequent, simple, "how to solder" courses for kids of all ages.
 
-An example use case would be a solar panel or usb connection to charge a lipo driving an ESP8266 or an Arduino.
+Our previous kit was designed by Luke Weston and had a very similar schematic.  This one has been updated for parts availability and in order to have a more "fun" board.
 
-The dual power circuit is mostly taken from https://github.com/CCHS-Melbourne/ESPlant
+The "Rocket" outline was designed in Sketchup and exported as a dxf to be inputed in to KiCAD.
 
+The "Solder Rocket" text was generated using simple text tools and imported using bitmap2component.
+
+Why a 100 ohm resistor?  Because I had a big box of them....
+
+![Board Layout](Images/Board.png?raw=true "Board Layout")
+
+ASSEMBLY
+------------
+
+Comming Soon!
+
+BUY SOME!
+------------
+
+I've shared the red version of these boards up on http://dirtypcbs.com
+
+If you want to order a pack of these without doing any of your own changes, you can get them straight from here and help support my board manufacturing habit...
+
+http://dirtypcbs.com/view.php?share=19491&accesskey=ada689462f33cf1f1e307755f1fe0776
 
 
 CREDITS
 ------------
 
 This project was designed by [John Spencer](https://github.com/mage0r)
-With a special thanks to [Angus Gratton](https://github.com/projectgus)
-
 
 Made at hackmelbourne.org!
 
@@ -34,6 +50,6 @@ license referenced below. Please contact the copyright owner if you wish to modi
 LICENSE
 -------
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
-The "license" sub-folder also contains a copy of this license in plain text format.
+A plain text version of this license is included in this directory.
 
-Copyright John Spencer, Angus Gratton 2016
+Copyright John Spencer 2016
