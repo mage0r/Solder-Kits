@@ -21,11 +21,7 @@ Comming Soon!
 BUY SOME!
 ------------
 
-I've shared the red version of these boards up on http://dirtypcbs.com
-
-If you want to order a pack of these without doing any of your own changes, you can get them straight from here and help support my board manufacturing habit...
-
-http://dirtypcbs.com/view.php?share=19491&accesskey=ada689462f33cf1f1e307755f1fe0776
+Coming Soon!
 
 
 CREDITS
