@@ -16,7 +16,7 @@ Why a 100 ohm resistor?  Because I had a big box of them....
 ASSEMBLY
 ------------
 
-Comming Soon!
+Check out the How-To on the wiki ![Wiki](https://github.com/mage0r/Solder-Rocket-Badge-Kit/wiki/How-To)
 
 BUY SOME!
 ------------
