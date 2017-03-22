@@ -16,12 +16,14 @@ Why a 100 ohm resistor?  Because I had a big box of them....
 ASSEMBLY
 ------------
 
-Check out the How-To on the wiki ![Wiki](https://github.com/mage0r/Solder-Rocket-Badge-Kit/wiki/How-To)
+Check out the How-To on the wiki at https://github.com/mage0r/Solder-Rocket-Badge-Kit/wiki/How-To
 
 BUY SOME!
 ------------
 
-Coming Soon!
+Tronixlabs is currently stocking these kits in packs of 3.
+
+https://tronixlabs.com.au/kits/solder-rocket-learn-to-solder-kit-triple-pack-tronixlabs-australia/
 
 
 CREDITS
