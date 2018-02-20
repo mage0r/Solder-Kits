@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ESPlant)(type KiCad)(uri "C:\\Users\\John\\Dropbox\\GitHub\\ESPlant (GitHub Desktop)\\Circuit\\ESPlant.pretty")(options "")(descr ""))
+  (lib (name badge-kit)(type KiCad)(uri "$(KIPRJMOD)\\badge-kit.pretty")(options "")(descr ""))
+  (lib (name badge-kit-v1)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name CR2032)(type KiCad)(uri C:\Users\mage\Dropbox\GitHub\collar-light\CR2032.pretty)(options "")(descr ""))
+)

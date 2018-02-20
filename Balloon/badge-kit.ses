@@ -1,0 +1,144 @@
+
+(session "badge-kit.ses"
+  (base_design "badge-kit.dsn")
+  (placement
+    (resolution um 10)
+    (component CR2032:CR2032
+      (place BT1 1326390 -893445 front 0)
+    )
+    (component "LEDs:LED-3MM"
+      (place D1 1317120 -1137670 front 0)
+    )
+    (component Resistors_ThroughHole:Resistor_Horizontal_RM10mm
+      (place R1 1350260 -1207390 front 180)
+    )
+    (component ESPlant:SS12D00
+      (place SW2 1387750 -1173020 front 270)
+    )
+    (component freetronics_footprints:SJ_OPEN
+      (place SW3 1256180 -1162020 front 180)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version "4.0.2-stable")
+    )
+    (library_out 
+      (padstack "Via[0-1]_600:400_um"
+        (shape
+          (circle F.Cu 6000 0 0)
+        )
+        (shape
+          (circle B.Cu 6000 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net "Net-(BT1-Pad1)"
+        (wire
+          (path F.Cu 2500
+            1387750 -1173020
+            1416918 -1143852
+            1416918 -1078377
+            1431817 -1063478
+            1431817 -927125
+            1426390 -921698
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1426390 -893445
+            1426390 -921698
+          )
+        )
+        (wire
+          (path B.Cu 2500
+            1426390 -893445
+            1426390 -865192
+          )
+        )
+        (wire
+          (path B.Cu 2500
+            1226390 -893445
+            1226390 -865192
+          )
+        )
+        (wire
+          (path B.Cu 2500
+            1226390 -865192
+            1426390 -865192
+          )
+        )
+      )
+      (net GND
+        (wire
+          (path F.Cu 2500
+            1325298 -892561
+            1221378 -996481
+            1221378 -1090065
+            1268983 -1137670
+            1303867 -1137670
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1317120 -1137670
+            1303867 -1137670
+          )
+        )
+      )
+      (net "Net-(D1-Pad2)"
+        (wire
+          (path F.Cu 2500
+            1248560 -1150766
+            1291723 -1150766
+            1304085 -1163128
+            1327031 -1163128
+            1342520 -1147639
+            1342520 -1137670
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1248560 -1162020
+            1248560 -1150766
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1248560 -1162020
+            1248560 -1207290
+            1248660 -1207390
+          )
+        )
+      )
+      (net "Net-(R1-Pad1)"
+        (wire
+          (path F.Cu 2500
+            1350260 -1207390
+            1378380 -1207390
+            1387750 -1198020
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1263800 -1162020
+            1272895 -1162020
+          )
+        )
+        (wire
+          (path F.Cu 2500
+            1272895 -1162020
+            1318265 -1207390
+            1350260 -1207390
+          )
+        )
+      )
+    )
+  )
+)

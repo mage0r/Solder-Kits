@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name badge-kit)(type KiCad)(uri "$(KIPRJMOD)\\badge-kit.pretty")(options "")(descr ""))
+  (lib (name ESPlant)(type KiCad)(uri "C:\\Users\\mage\\Dropbox\\GitHub\\ESPlant (GitHub Desktop)\\Circuit\\ESPlant.pretty")(options "")(descr ""))
+)
