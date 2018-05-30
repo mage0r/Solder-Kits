@@ -5,7 +5,7 @@
     (no_connects 1)
     (area 80.951472 49.949999 119.048528 98.963566)
     (thickness 1.6)
-    (drawings 339)
+    (drawings 340)
     (tracks 66)
     (zones 0)
     (modules 12)
@@ -14,8 +14,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -1266,6 +1266,7 @@
     )
   )
 
+  (gr_circle (center 86.25 82.5) (end 86.75 82.5) (layer F.SilkS) (width 0.2))
   (gr_text "Original by\nJohn Spencer" (at 111.5 82) (layer B.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
