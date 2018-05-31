@@ -26,6 +26,8 @@ CREDITS
 
 This project was designed by [John Spencer](https://github.com/mage0r)
 
+ATTiny variant hacked together by [Robert Powers](https://github.com/rdpowers)
+
 Made at hackmelbourne.org!
 
 SPECIAL THANKS

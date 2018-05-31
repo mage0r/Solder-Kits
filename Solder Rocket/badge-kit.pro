@@ -1,4 +1,4 @@
-update=20/02/2018 10:31:09 PM
+update=29/05/2018 3:06:33 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=LocalLibrary
