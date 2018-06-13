@@ -1,0 +1,96 @@
+ 0
+SECTION
+ 2
+ENTITIES
+  0
+POLYLINE
+ 8
+Layer0
+ 66
+     1
+70
+    8
+ 10
+0.0
+ 20
+ 0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+3.75
+20
+-3.75
+30
+0.0
+ 70
+     32
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+-2.45
+20
+-3.75
+30
+0.0
+ 70
+     32
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+-3.75
+20
+-2.45
+30
+0.0
+ 70
+     32
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+-3.75
+20
+3.75
+30
+0.0
+ 70
+     32
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+3.75
+20
+3.75
+30
+0.0
+ 70
+     32
+  0
+VERTEX
+  8
+MY3DLAYER
+10
+3.75
+20
+-3.75
+30
+0.0
+ 70
+     32
+  0
+SEQEND
+ 0
+ENDSEC
+ 0
+EOF
