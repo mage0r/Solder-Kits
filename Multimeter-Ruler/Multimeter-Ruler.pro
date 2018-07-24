@@ -1,4 +1,4 @@
-update=13/06/2018 9:52:46 PM
+update=24/07/2018 8:35:20 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -72,3 +72,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=libs/nhd-c12832a1z
+LibName34=libs/spx3819s-l-1.8
