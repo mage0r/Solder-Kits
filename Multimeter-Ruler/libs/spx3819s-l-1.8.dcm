@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPX3819S-L-1.8
+D 500mA low dropout linear regulator, shutdown pin, 1.8V fixed positive output, SOIC8 package
+K linear regulator ldo fixed positive
+$ENDCMP
+#
+#End Doc Library
