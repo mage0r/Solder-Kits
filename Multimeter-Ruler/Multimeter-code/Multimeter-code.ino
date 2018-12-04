@@ -11,7 +11,7 @@
 #include <SPI.h>
 #endif
 
-#define VERSION "Multi-Meter V.1.0"
+#define VERSION "Multi-Meter V.1.2"
 
 U8G2_ST7565_NHD_C12832_F_4W_HW_SPI u8g2(U8G2_R0, /* cs=*/ 10, /* dc=*/ A0, /* reset=*/ 8);
 
@@ -22,8 +22,8 @@ byte menu_item = 0;
 const byte menu_elements = 3;
 byte menu_pos[3] = {9,19,29};
 
-const byte button_1 = 8;
-const byte piezo = 3;
+const byte button_1 = 2;
+const byte piezo = A0;
 const byte display_brightness = 9;
 unsigned int display_update = 0;
 unsigned int display_update_interval = 250; //500 milliseconds.
